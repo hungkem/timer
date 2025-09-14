@@ -1,6 +1,6 @@
 ##################################################################################################
-#This file created by Huy Nguyen
-#Updated date: 6/30/2019
+#This file created by Huy Nguyen and modified by Hung Pham
+#Updated date: 1/30/2024
 #Example run string: make TESTNAME={name_of_testcase} {optional}
 #		     make TESTNAME=counter_test all 
 ##################################################################################################
